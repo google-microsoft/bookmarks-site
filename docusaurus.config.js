@@ -13,11 +13,11 @@ module.exports = {
   tagline: '',
   url: 'https://google-microsoft.github.io/bookmarks-site',
   baseUrl: '/bookmarks-site/',
+  projectName: 'bookmarks-site', // Usually your repo name.
+  organizationName: 'google-microsoft', // Usually your GitHub org/user name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'google-microsoft', // Usually your GitHub org/user name.
-  projectName: 'bookmarks-site', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '知识书签',
