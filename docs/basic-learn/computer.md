@@ -495,10 +495,6 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 
 
-###   [Rust学习教程](./README.rust.md)
-
-
-
 ### mysql数据库设计
 
 - [MYSQL-UML设计](https://app.genmymodel.com/api/login)

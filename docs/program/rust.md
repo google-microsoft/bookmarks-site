@@ -1,5 +1,6 @@
 ---
-id: rust
+id: 
+
 title: rust学习
 sidebar_label: rust学习
 ---
