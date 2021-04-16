@@ -28,7 +28,6 @@ module.exports = {
       items: [
         {
           label: '基础修炼',
-          activeBasePath: 'docs',
           position: 'left',
           items: [
             {to: '/docs/basic-learn/cloudserver', label: '云服务', position: 'left'},
