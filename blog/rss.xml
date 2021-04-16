@@ -4,8 +4,15 @@
         <title>知识书签 Blog</title>
         <link>https://google-microsoft.github.io/bookmarks-site/blog</link>
         <description>知识书签 Blog</description>
-        <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[week2]]></title>
+            <link>https://google-microsoft.github.io/bookmarks-site/bookmarks-site/blog/2021/04/16/week2</link>
+            <guid>week2</guid>
+            <pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[5、SQLite 命令行数据处理示例（英文）]]></description>
+        </item>
     </channel>
 </rss>
