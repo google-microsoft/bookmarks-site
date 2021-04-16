@@ -45,6 +45,7 @@ module.exports = {
             {to: 'docs/program/vim', label: 'vim学习', position: 'left'},
           ],
         },
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
