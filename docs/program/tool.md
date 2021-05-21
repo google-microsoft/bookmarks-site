@@ -69,3 +69,41 @@ sidebar_label: tool
 ![img](asserts/images/bg2021020805.jpg)
 
 这是每年一度的调查，根据过去一年中 GitHub 新增的 Star 数量，对各个领域的 JavaScript 工具进行排名，可以快速掌握新出现的主流工具。
+
+
+
+
+
+[APK 在线分析](https://apkinfo.online/)
+
+一个在线工具，用来分析、修改 APK 文件（安卓应用安装包），以及提取 APK 图标。
+
+
+
+
+
+[Come Browse With Me](https://comebrowsewithme.com/)
+
+![img](asserts/images/bg2021042810.jpg)
+
+这个在线工具通过 WebRTC，可以将你的浏览器窗口分享给他人，也就是说，别人可以看到你在页面上的一举一动。
+
+
+
+[业余编译器作者的学习资源](https://c9x.me/compile/bib/)
+
+![img](asserts/images/bg2021042501.jpg)
+
+该网页收集各种编译器相关的自学资源。
+
+
+
+
+
+
+
+[JavaScript 数据科学教程](http://js4ds.org/)
+
+![img](asserts/images/bg2021042406.jpg)
+
+一本英文的 JavaScript 教程，免费阅读。从零基础的语法开始讲起，为数据研究人员提供必要的 JavaScript 知识。
