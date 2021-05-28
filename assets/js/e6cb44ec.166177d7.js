@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{90:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"week2","permalink":"/bookmarks-site/blog/2021/04/16/week2"}]}')}}]);
