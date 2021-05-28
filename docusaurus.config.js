@@ -43,6 +43,15 @@ module.exports = {
             {to: 'docs/program/rust', label: 'rust学习', position: 'left'},
             {to: 'docs/program/tool', label: 'tool', position: 'left'},
             {to: 'docs/program/vim', label: 'vim学习', position: 'left'},
+            {to: 'docs/program/serivce', label: '服务学习', position: 'left'},
+            {to: 'docs/program/ionic', label: 'ionic相关', position: 'left'},
+          ],
+        },
+        {
+          label: 'Office相关',
+          position: 'left',
+          items: [
+            {to: 'docs/office/ppt', label: 'PPT相关', position: 'left'},
           ],
         },
         {to: 'blog', label: 'Blog', position: 'left'},

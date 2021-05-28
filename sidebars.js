@@ -34,7 +34,17 @@ module.exports = {
         'program/rust',
         'program/tool',
         'program/vim',
+        'program/serivce',
       ],
     },
-  ]
+
+    {
+      type: 'category',
+      label: 'office相关',
+      collapsed: false,
+      items: [
+        'office/ppt',
+      ],
+    },
+  ],
 };

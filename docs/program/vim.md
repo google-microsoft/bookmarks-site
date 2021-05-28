@@ -1,7 +1,11 @@
 ---
+
 id: vim
+
 title: vim学习
+
 sidebar_label: vim学习
+
 ---
 
 ## Vim学习

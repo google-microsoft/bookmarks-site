@@ -1,7 +1,10 @@
 ---
 id: rust
+
 title: rust学习
+
 sidebar_label: rust学习
+
 ---
 
 ## Rust学习教程

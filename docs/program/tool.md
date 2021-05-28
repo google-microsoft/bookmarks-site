@@ -1,7 +1,11 @@
 ---
+
 id: tool
+
 title: tool
+
 sidebar_label: tool
+
 ---
 
 ## 重要的学习方向:
