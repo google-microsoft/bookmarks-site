@@ -8,7 +8,7 @@ sidebar_label: tool
 
 ---
 
-## 重要的学习方向:
+# 重要的学习方向:
 
 [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y)
 
@@ -42,7 +42,9 @@ sidebar_label: tool
 
 
 
-# 工具:
+# 工具集:
+
+## 普通工具:
 
 1、[Beaker](https://beakerbrowser.com/)
 
@@ -57,6 +59,36 @@ sidebar_label: tool
 ![img](asserts/images/bg2021021001.jpg)
 
 只要在 GitHub 仓库域名后面加上`1s`，比如`github1s.com/facebook/react`，就能在浏览器里面使用 VS Code 环境，浏览这个仓库的代码。
+
+
+
+## 便捷工具
+
+[n8n](https://n8n.io/)
+
+![img](asserts/images/bg2021060107.jpg)
+
+一个开源的工作流自动化工具，可以通过图形界面，选择200多种服务，组成一个工作流。
+
+
+
+[Termpair](https://github.com/cs01/termpair)
+
+![img](asserts/images/bg2021053104.jpg)
+
+一个远程终端控制工具。用户在一个终端窗口中，启动这个工具，它会返回一个链接，使用这个链接就能在其它计算机的浏览器里面，控制原始的终端窗口。
+
+
+
+
+
+[NocoDB](https://github.com/nocodb/nocodb)
+
+![img](asserts/images/bg2021052804.jpg)
+
+这个 Web 软件可以将各种数据库，转为易于操作的智能电子表格，类似于 Airtable。
+
+
 
 
 
