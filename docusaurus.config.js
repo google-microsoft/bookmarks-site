@@ -11,7 +11,7 @@
 module.exports = {
   title: '知识书签',
   tagline: '',
-  url: 'https://google-microsoft.github.io/bookmarks-site',
+  url: 'https://google-microsoft.github.io',
   baseUrl: '/bookmarks-site/',
   projectName: 'bookmarks-site', // Usually your repo name.
   organizationName: 'google-microsoft', // Usually your GitHub org/user name.
