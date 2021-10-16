@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks_site=self.webpackChunkbookmarks_site||[]).push([[677],{405:function(e){e.exports=JSON.parse('{"permalink":"/bookmarks-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
