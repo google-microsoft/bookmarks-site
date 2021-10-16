@@ -33,9 +33,9 @@ module.exports = {
           label: '基础修炼',
           position: 'left',
           items: [
-            {to: 'docs/basic-learn/cloudserver', label: '云服务', position: 'left'},
-            {to: 'docs/basic-learn/computer', label: '计算机基础', position: 'left'},
-            {to: 'docs/itcast/itcast', label: '传智播客课件和视频教程', position: 'left'},
+            {to: 'docs/basic-learn/cloudserver', label: '云服务'},
+            {to: 'docs/basic-learn/computer', label: '计算机基础'},
+            {to: 'docs/itcast/itcast', label: '传智播客课件和视频教程'},
           ],
         },
 
@@ -43,21 +43,21 @@ module.exports = {
           label: '编程',
           position: 'left',
           items: [
-            {to: 'docs/program/rust', label: 'rust学习', position: 'left'},
-            {to: 'docs/program/tool', label: 'tool', position: 'left'},
-            {to: 'docs/program/vim', label: 'vim学习', position: 'left'},
-            {to: 'docs/program/serivce', label: '服务学习', position: 'left'},
-            {to: 'docs/program/ionic', label: 'ionic相关', position: 'left'},
+            {to: 'docs/program/rust', label: 'rust学习'},
+            {to: 'docs/program/tool', label: 'tool'},
+            {to: 'docs/program/vim', label: 'vim学习'},
+            {to: 'docs/program/serivce', label: '服务学习'},
+            {to: 'docs/program/ionic', label: 'ionic相关'},
           ],
         },
         {
           label: 'Office相关',
           position: 'left',
           items: [
-            {to: 'docs/office/ppt', label: 'PPT相关', position: 'left'},
+            {to: 'docs/office/ppt', label: 'PPT相关'},
           ],
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
